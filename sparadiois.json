@@ -1,0 +1,18 @@
+{
+  "spaintdt": [
+    {
+      "channel_category": "Generalistas",
+      "kanallar": [
+        {
+          "channel_name": "Radio Intereconomía",
+          "kanal_kaynak": [
+            {
+              "channel_format": "m3u8",
+              "channel_Url": "https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B022/023/playlist.m3u8"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
